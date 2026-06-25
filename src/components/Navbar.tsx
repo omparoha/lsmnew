@@ -48,7 +48,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link to="/" className="group flex items-center gap-1.5 focus:outline-none">
           <span className="text-xl font-bold tracking-tight text-black flex items-center">
-            Local<span className="text-[#0055ff]">SM</span>
+            Local<span className="text-yellow-500">SM</span>
           </span>
           <span className="h-2 w-2 rounded-full bg-[#0055ff] opacity-0 group-hover:opacity-100 transition-opacity duration-300"></span>
         </Link>
